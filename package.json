@@ -1,0 +1,22 @@
+{
+  "name": "box-csv-uploader",
+  "version": "1.0.0",
+  "description": "Upload CSV files to Box.com",
+  "main": "box-uploader.js",
+  "scripts": {
+    "start": "node box-uploader.js",
+    "test": "echo && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "form-data": "^4.0.4"
+  },
+  "keywords": [
+    "box",
+    "upload",
+    "csv",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
